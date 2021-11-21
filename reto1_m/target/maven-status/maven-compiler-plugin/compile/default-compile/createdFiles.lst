@@ -1,0 +1,6 @@
+com\ciclo4\reto1_m\Reto1MApplication.class
+com\ciclo4\reto1_m\repository\UserRepository.class
+com\ciclo4\reto1_m\controller\UserController.class
+com\ciclo4\reto1_m\repository\crud\UserCrudRepository.class
+com\ciclo4\reto1_m\service\UserService.class
+com\ciclo4\reto1_m\modelo\User.class
